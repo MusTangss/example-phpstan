@@ -1,7 +1,7 @@
 <?php
 class Example {
 	public function getReason():string {
-		return <<<<ST
+		return <<<<STdd
 		The reason for this class to exist is to act as documentation
 		for passing multiple directories to PHPStan.
 		
